@@ -2,4 +2,4 @@
 
 Java GUI projects made for ICS4U1 class (100% final mark)
 
-Created as NetBeans projects
+Created as NetBeans project
